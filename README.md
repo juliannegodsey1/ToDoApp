@@ -21,3 +21,7 @@ The To-Do App is a simple task management application that allows users to creat
 - **CSS** 
 - **JavaScript** 
 - **Local Storage**
+
+## Credits
+
+This project was created as part of the FreeCodeCamp curriculum.
